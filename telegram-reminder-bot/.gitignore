@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+reminders.db
+reminders.db-wal
+reminders.db-shm
